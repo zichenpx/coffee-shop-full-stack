@@ -8,7 +8,7 @@ from urllib.request import urlopen
 # AUTH0_DOMAIN = 'udacity-fsnd.auth0.com'
 AUTH0_DOMAIN = "ytp6dev.us.auth0.com"
 ALGORITHMS = ["RS256"]
-API_AUDIENCE = "dev"
+API_AUDIENCE = "https://coffee-shop-full-stack-api-dev/"
 
 ## AuthError Exception
 """
